@@ -1,0 +1,26 @@
+#form1
+{
+ background-color:red;
+ border:2px solid yellow;
+ border-radius:10px;
+}
+
+a:hover
+{
+ background-color:yellow;
+}
+
+#div1
+{
+ margin:20px;onMouseOver="this.style.color='red'"
+ padding:20px;
+ border:5px solid red;
+}
+
+p
+{
+ background-color:black;
+ color:white;
+ font-size:40px;
+}
+
